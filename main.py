@@ -4,7 +4,7 @@ import telebot
 from InfoManager import FlightSearch
 
 # BOT_TOKEN = os.environ.get('BOT_TOKEN') Not working for some reason
-BOT_TOKEN = "6273422459:AAEQS63MWd4oQ6VLPGZTMn_aB0IfRKTd12Q"
+BOT_TOKEN = "YOUR TOKEN"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 @bot.message_handler(commands=['start', 'hello'])

@@ -1,4 +1,4 @@
-# group-gpt
+# TravelGPT
 A travel-based telegram bot that recommends you travel itineraries to selected destinations and the cheapest flight prices and hotels. 
 
 Our travel itinerary suggestions are powered by ChatGPT, and our flight and hotel prices are fetched through various website APIs. 
